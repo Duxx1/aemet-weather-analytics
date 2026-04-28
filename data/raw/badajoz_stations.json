@@ -1,0 +1,218 @@
+[
+    {
+        "latitud": "391010N",
+        "provincia": "BADAJOZ",
+        "altitud": "447",
+        "indicativo": "4244X",
+        "nombre": "HERRERA DEL DUQUE",
+        "indsinop": "08264",
+        "longitud": "050344W"
+    },
+    {
+        "latitud": "382847N",
+        "provincia": "BADAJOZ",
+        "altitud": "542",
+        "indicativo": "4260",
+        "nombre": "PERALEDA DEL ZAUCEJO",
+        "indsinop": "",
+        "longitud": "053439W"
+    },
+    {
+        "latitud": "384431N",
+        "provincia": "BADAJOZ",
+        "altitud": "459",
+        "indicativo": "4325Y",
+        "nombre": "CASTUERA",
+        "indsinop": "",
+        "longitud": "053145W"
+    },
+    {
+        "latitud": "390612N",
+        "provincia": "BADAJOZ",
+        "altitud": "313",
+        "indicativo": "4340",
+        "nombre": "NAVALVILLAR DE PELA",
+        "indsinop": "",
+        "longitud": "052741W"
+    },
+    {
+        "latitud": "385720N",
+        "provincia": "BADAJOZ",
+        "altitud": "274",
+        "indicativo": "4358X",
+        "nombre": "DON BENITO",
+        "indsinop": "08333",
+        "longitud": "055250W"
+    },
+    {
+        "latitud": "383435N",
+        "provincia": "BADAJOZ",
+        "altitud": "474",
+        "indicativo": "4362X",
+        "nombre": "RETAMAL DE LLERENA",
+        "indsinop": "",
+        "longitud": "055045W"
+    },
+    {
+        "latitud": "381354N",
+        "provincia": "BADAJOZ",
+        "altitud": "655",
+        "indicativo": "4386B",
+        "nombre": "LLERENA",
+        "indsinop": "08336",
+        "longitud": "060101W"
+    },
+    {
+        "latitud": "383306N",
+        "provincia": "BADAJOZ",
+        "altitud": "430",
+        "indicativo": "4395X",
+        "nombre": "VILLAFRANCA DE LOS BARROS",
+        "indsinop": "",
+        "longitud": "061824W"
+    },
+    {
+        "latitud": "385457N",
+        "provincia": "BADAJOZ",
+        "altitud": "228",
+        "indicativo": "4410X",
+        "nombre": "M\u00c9RIDA",
+        "indsinop": "08331",
+        "longitud": "062308W"
+    },
+    {
+        "latitud": "382533N",
+        "provincia": "BADAJOZ",
+        "altitud": "433",
+        "indicativo": "4427X",
+        "nombre": "ZAFRA",
+        "indsinop": "",
+        "longitud": "062612W"
+    },
+    {
+        "latitud": "384120N",
+        "provincia": "BADAJOZ",
+        "altitud": "371",
+        "indicativo": "4436Y",
+        "nombre": "ALMENDRALEJO",
+        "indsinop": "",
+        "longitud": "062140W"
+    },
+    {
+        "latitud": "385300N",
+        "provincia": "BADAJOZ",
+        "altitud": "186",
+        "indicativo": "4452",
+        "nombre": "BADAJOZ AEROPUERTO",
+        "indsinop": "08330",
+        "longitud": "064850W"
+    },
+    {
+        "latitud": "391055N",
+        "provincia": "BADAJOZ",
+        "altitud": "283",
+        "indicativo": "4464X",
+        "nombre": "ALBURQUERQUE",
+        "indsinop": "",
+        "longitud": "065943W"
+    },
+    {
+        "latitud": "391036N",
+        "provincia": "BADAJOZ",
+        "altitud": "392",
+        "indicativo": "4468X",
+        "nombre": "PUEBLA DE OBANDO",
+        "indsinop": "",
+        "longitud": "063603W"
+    },
+    {
+        "latitud": "385310N",
+        "provincia": "BADAJOZ",
+        "altitud": "174",
+        "indicativo": "4478X",
+        "nombre": "BADAJOZ",
+        "indsinop": "08329",
+        "longitud": "070034W"
+    },
+    {
+        "latitud": "384151N",
+        "provincia": "BADAJOZ",
+        "altitud": "275",
+        "indicativo": "4486X",
+        "nombre": "OLIVENZA",
+        "indsinop": "",
+        "longitud": "070504W"
+    },
+    {
+        "latitud": "382905N",
+        "provincia": "BADAJOZ",
+        "altitud": "170",
+        "indicativo": "4489X",
+        "nombre": "ALCONCHEL",
+        "indsinop": "",
+        "longitud": "071655W"
+    },
+    {
+        "latitud": "382822N",
+        "provincia": "BADAJOZ",
+        "altitud": "377",
+        "indicativo": "4492F",
+        "nombre": "BARCARROTA",
+        "indsinop": "",
+        "longitud": "065524W"
+    },
+    {
+        "latitud": "382220N",
+        "provincia": "BADAJOZ",
+        "altitud": "247",
+        "indicativo": "4497X",
+        "nombre": "VILLANUEVA DEL FRESNO",
+        "indsinop": "",
+        "longitud": "070929W"
+    },
+    {
+        "latitud": "380453N",
+        "provincia": "BADAJOZ",
+        "altitud": "771",
+        "indicativo": "4499X",
+        "nombre": "MONESTERIO",
+        "indsinop": "",
+        "longitud": "061619W"
+    },
+    {
+        "latitud": "381231N",
+        "provincia": "BADAJOZ",
+        "altitud": "602",
+        "indicativo": "4501X",
+        "nombre": "FUENTE DE CANTOS",
+        "indsinop": "",
+        "longitud": "061841W"
+    },
+    {
+        "latitud": "381755N",
+        "provincia": "BADAJOZ",
+        "altitud": "381",
+        "indicativo": "4511C",
+        "nombre": "JEREZ DE LOS CABALLEROS",
+        "indsinop": "08337",
+        "longitud": "064554W"
+    },
+    {
+        "latitud": "381042N",
+        "provincia": "BADAJOZ",
+        "altitud": "586",
+        "indicativo": "4520X",
+        "nombre": "FREGENAL DE LA SIERRA",
+        "indsinop": "",
+        "longitud": "063942W"
+    },
+    {
+        "latitud": "381604N",
+        "provincia": "BADAJOZ",
+        "altitud": "581",
+        "indicativo": "5473X",
+        "nombre": "AZUAGA",
+        "indsinop": "",
+        "longitud": "054110W"
+    }
+]
