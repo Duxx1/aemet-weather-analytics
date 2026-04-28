@@ -1,0 +1,12 @@
+# variables sensibles
+.env
+
+# datos
+data/interim/
+
+# python
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
