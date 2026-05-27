@@ -3,6 +3,8 @@
 
 # datos
 data/interim/
+data/processed
+data/raw/climatology/monthly/
 
 # python
 __pycache__/
