@@ -108,7 +108,6 @@ def parse_w_racha(value: str) -> tuple[float | None, float | None]:
 
     Returns (direction_degrees, speed) or (None, None) if unparseable.
     """
-
     if not isinstance(value, str):
         return None, None
 
@@ -118,13 +117,14 @@ def parse_w_racha(value: str) -> tuple[float | None, float | None]:
         return None, None
 
     try:
-        direction = float(parts[0].strip())
+        # AEMET encodes direction as a 1-36 scale (each unit = 10 degrees)
+        direction = float(parts[0].strip()) * 10
     except ValueError:
         direction = None
 
     # Strip parenthesised metadata from the speed part
     speed = strip_metadata(parts[1])
-
+    
     return direction, speed
 
 
